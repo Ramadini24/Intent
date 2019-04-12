@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasIntent</string>
+    <string name="name">Name :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="nomor_hp">Nomor Hp :</string>
+    <string name="share">Share</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_nomor">Masukkan Nomor</string>
+    <string name="register">Register</string>
+</resources>
